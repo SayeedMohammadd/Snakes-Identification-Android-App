@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1014816053735",
+    "project_id": "clicksnake-8c94b",
+    "storage_bucket": "clicksnake-8c94b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014816053735:android:e979685d8e3771934fc542",
+        "android_client_info": {
+          "package_name": "com.example.ClickSnake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014816053735-cqqr4g6cbrfeplrfvu7icqumvj3e6s4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgQeWgOYNjrsZL0nDMaOG2eX9ELieb0DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014816053735-cqqr4g6cbrfeplrfvu7icqumvj3e6s4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014816053735:android:481cba60d7ca4b5d4fc542",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.classification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014816053735-cqqr4g6cbrfeplrfvu7icqumvj3e6s4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgQeWgOYNjrsZL0nDMaOG2eX9ELieb0DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014816053735-cqqr4g6cbrfeplrfvu7icqumvj3e6s4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
